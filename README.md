@@ -25,11 +25,8 @@ EmergConnect es un proyecto de código abierto. El código fuente está disponib
 Contribuciones:
 ¡Las contribuciones son bienvenidas! Si deseas colaborar, puedes clonar el repositorio, realizar tus cambios y enviar un pull request. Asegúrate de seguir las directrices de contribución del proyecto.
 
-Licencia:
-Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para obtener más detalles.
-
 Equipo:
 
-Rodrigo Alvarez: Desarrollador Principal.
-[Otros colaboradores pueden añadirse aquí].
+Rodrigo González: Desarrollador Principal.
+
 ¡Gracias por tu interés en EmergConnect! Esperamos que esta aplicación contribuya a mejorar la gestión de emergencias en todo el mundo. Si tienes alguna pregunta o sugerencia, no dudes en ponerte en contacto con nosotros.
